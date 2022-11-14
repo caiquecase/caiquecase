@@ -25,7 +25,7 @@ I was a student at [Senac RJ](https://www.rj.senac.br), an Educational Instituti
 
 <p align="left"> <a href="https://www.instagram.com/caiquecase/" target="_blank" rel="noreferrer"> 
 </a>
-  <a href="https://www.github.com/caiquecaseid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+  <a href="https://www.github.com/caiquecase" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/ca%C3%ADque-de-souza-casemiro-086399242/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13367336/guilhermo-masid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCTF5MfUsa-9dFCOHFTA9xzw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
