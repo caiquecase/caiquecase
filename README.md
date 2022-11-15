@@ -36,6 +36,3 @@ I was a student at [Senac RJ](https://www.rj.senac.br), an Educational Instituti
 
 </p>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/peguimasid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
