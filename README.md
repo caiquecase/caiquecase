@@ -1,7 +1,7 @@
 Hi 👋 My name is Caíque Casemiro
 ==========================
 
-Font-End Developer
+Font-End Developer & Designer
 -----------------------------
 
 I am a 17 year old developer and graphic designer since I was 15. I love solving problems and gaining new skills through digital means. I focus on front-end and back-end development, creating innovative applications for all users.
