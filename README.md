@@ -1,10 +1,10 @@
-Hi 👋 My name is Caíque Casemiro
+Hi 👋 My name is Caique Casemiro
 ==========================
 
 Font-End Developer & Designer
 -----------------------------
 
-I am a 17 year old developer and graphic designer since I was 15. I love solving problems and gaining new skills through digital means. I focus on front-end and back-end development, creating innovative applications for all users.
+I am a 18 year old developer and graphic designer since I was 15. I love solving problems and gaining new skills through digital means. I focus on front-end and back-end development, creating innovative applications for all users.
 
 I was a student at [Senac RJ](https://www.rj.senac.br), an Educational Institution with several technical courses, I graduated in Computer Technician
  
@@ -21,6 +21,7 @@ I was a student at [Senac RJ](https://www.rj.senac.br), an Educational Instituti
   <img align="center" alt="Caique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caique-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg">
+   <img align="center" alt="Caique-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg">
   <img align="center" alt="Caique-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg">
    <img align="center" alt="Caique-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg">
     <img align="center" alt="Caique-Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg">
