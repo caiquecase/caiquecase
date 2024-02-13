@@ -1,7 +1,7 @@
 Hi 👋 My name is Caique Casemiro
 ==========================
 
-Font-End Developer & Designer
+Web Developer
 -----------------------------
 I'm a 19-year-old developer and I started programming when I was 15. I love solving problems and improving my skills.
 
