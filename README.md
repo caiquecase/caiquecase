@@ -3,10 +3,9 @@ Hi 👋 My name is Caique Casemiro
 
 Font-End Developer & Designer
 -----------------------------
+I'm a 19-year-old developer and I started programming when I was 15. I love solving problems and improving my skills.
 
-I am a 19 year old developer since I was 15. I love solving problems and gaining new skills through digital means. I focus on front-end and back-end development, creating innovative applications for all users.
-
-I was a student at [Senac RJ](https://www.rj.senac.br), an Educational Institution with several technical courses, I graduated in Computer Technician
+I was a student at [Senac RJ](https://www.rj.senac.br) and I am currently studying Computer Science at UNESA.
  
 <div align="center">
   <a href="https://github.com/caiquecase">
