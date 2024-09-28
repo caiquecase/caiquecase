@@ -1,11 +1,11 @@
 Hi 👋 My name is Caique Casemiro
 ==========================
 
-Web Developer
+Web Development | Data Analysis
 -----------------------------
 I'm a 19-year-old developer and I started programming when I was 15. I love solving problems and improving my skills.
 
-I was a student at [Senac RJ](https://www.rj.senac.br) and I am currently studying Computer Science at UNESA.
+I was a student at [Senac RJ](https://www.rj.senac.br) and I am currently studying Computer Science at IBMR.
  
 <div align="center">
   <a href="https://github.com/caiquecase">
